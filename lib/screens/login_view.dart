@@ -145,7 +145,7 @@ class _LoginPageState extends State<LoginPage> {
         ElevatedButton(
           onPressed: () {
             String text = "";
-            if (username == "user" && password == "user") {
+            if (username == "user" && password == "pass") {
               setState(() {
                 text = "Login Sukses";
                 isLoginSuccess = true;

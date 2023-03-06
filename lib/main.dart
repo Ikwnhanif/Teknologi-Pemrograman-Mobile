@@ -1,4 +1,3 @@
-import 'dart:js';
 import 'package:flutter/material.dart';
 import 'package:tugas1/screens/login_view.dart';
 import 'package:tugas1/screens/register_view.dart';
